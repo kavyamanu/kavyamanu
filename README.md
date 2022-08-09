@@ -5,10 +5,11 @@
 
 <a href="https://www.linkedin.com/in/kavyamanupati">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
+</a>
 
 <div align ="center">
-<img src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" width="200"/>
+
+<img src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" width="350" height="200"/>
 </div>
 
  ## <h3 align="left">GitHub Stats</h3>
